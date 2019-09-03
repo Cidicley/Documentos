@@ -9,6 +9,9 @@ NODE.js---
 Node.js
 Construa programas de rede escaláveis com Node.js! https://cursos.alura.com.br/formacao-node-js
 
+Angular--
+Formação Angular
+
 DDD---
 
 TDD---
