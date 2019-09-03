@@ -1,0 +1,41 @@
+WCF ---
+WCF : Distribua seus sistemas em .NET
+Swagger parte 1: Crie uma documentação APIs REST
+REST ---
+APIs Rest com Asp.NET Core 2.1 Parte 1: Da app MVC para API
+APIs Rest com Asp.NET Core 2.1 Parte 2: Consumindo nossa API
+APIs Rest com Asp.NET Core 2.1 Parte 3: padronizando a API
+NODE.js---
+Node.js
+Construa programas de rede escaláveis com Node.js! https://cursos.alura.com.br/formacao-node-js
+
+DDD---
+
+TDD---
+C#: Testes de unidade e TDD com xUnit
+
+MongoDB---
+MongoDB: Uma alternativa aos bancos relacionais tradicionais
+.Net e MongoDB parte 1: Primeiros passos para usar esse famoso banco NoSQL
+.Net e MongoDB parte 2: Integre uma webapp com o banco NoSQL
+
+Redis---
+Redis I: Armazenando chaves e valores
+Redis II: Estruturas e recursos na sua base NoSQL
+
+Mensageria---
+
+Nuvem---
+Azure: Deploy de uma webapp na nuvem da Microsoft
+DNS: Domine os serviços na nuvem
+
+Agile---
+Agile na Prática: Técnicas aplicadas para gestão ágil
+
+Solid---
+SOLID com C#: Orientação a Objetos com C#
+
+
+
+Design Patterns C# I: Boas práticas de programação
+Design Patterns C# II: Boas práticas de programação
